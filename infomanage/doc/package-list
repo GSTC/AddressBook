@@ -1,0 +1,5 @@
+com.hit.myapp.infomanage
+com.hit.myapp.infomanage.dao
+com.hit.myapp.infomanage.dao.impl
+com.hit.myapp.infomanage.model
+com.hit.myapp.infomanage.service
